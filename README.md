@@ -5,6 +5,8 @@ https://github.com/Zachariah72/mern-stack-integration-Zachariah72
 https://mern-stack-integration-git-347c13-zachariahs-projects-c4361150.vercel.app/
 
 
+<img width="960" height="540" alt="Screenshot 2025-11-18 112153" src="https://github.com/user-attachments/assets/df75876f-0646-4bbe-89ae-af23a6851659" />
+<img width="960" height="540" alt="Screenshot 2025-11-18 112246" src="https://github.com/user-attachments/assets/330ce43c-1afd-4cee-9b7b-6b5bea1e6396" />
 
 
 
