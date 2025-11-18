@@ -1,3 +1,24 @@
+
+
+https://github.com/Zachariah72/mern-stack-integration-Zachariah72
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Week 4 MERN Notes App
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application for managing notes with a modern UI built using React, Tailwind CSS, and Radix UI components.
