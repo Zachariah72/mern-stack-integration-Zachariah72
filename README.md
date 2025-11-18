@@ -26,24 +26,6 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for managing no
 - ✅ Timestamps for note creation and updates
 - ✅ Modern UI components using Radix UI
 
-## 🛠️ Tech Stack
-
-### Frontend
-- **React** (v19.1.1) - UI library
-- **Vite** (v7.1.7) - Build tool and dev server
-- **Tailwind CSS** (v4.1.14) - Utility-first CSS framework
-- **Radix UI** - Accessible UI components
-- **Axios** (v1.12.2) - HTTP client
-- **Class Variance Authority** - Component variant management
-
-### Backend
-- **Node.js** - Runtime environment
-- **Express** (v5.1.0) - Web framework
-- **MongoDB** - NoSQL database
-- **Mongoose** (v8.19.1) - ODM for MongoDB
-- **CORS** - Cross-origin resource sharing
-- **dotenv** - Environment variable management
-
 ## 📁 Project Structure
 
 ```
